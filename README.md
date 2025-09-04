@@ -16,5 +16,11 @@ This repo documents my **daily progress, solved problems, and projects**.
 ---
 
 ## 📂 Repository Structure  
+│
+├── README.md
+├── DSA/
+├── Python-Projects/
+├── SQL/
+└── MERN-Projects/
 
 
